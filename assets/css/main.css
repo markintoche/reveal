@@ -22,7 +22,7 @@
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
   --default-color: #555555; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #0c2e8a; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #50d8af; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --accent-color: #E61845; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
@@ -102,7 +102,7 @@ h6 {
 .php-email-form .sent-message {
   display: none;
   color: #ffffff;
-  background: #059652;
+  background: #E61845;
   text-align: center;
   padding: 15px;
   margin-bottom: 24px;
@@ -1409,7 +1409,7 @@ section,
 }
 
 .pricing ul i {
-  color: #059652;
+  color: #E61845;
   font-size: 24px;
   padding-right: 3px;
 }
